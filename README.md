@@ -2,8 +2,6 @@
 ## I'm a son of The Congo!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play Soccer, Basketball, Volleyball and play guitar
 
 
