@@ -4,16 +4,6 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I play Soccer, Basketball, Volleyball and play guitar
 
-
-### Connect with me:
-
-[<img align="left" alt="chiefmky | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="chiefmky | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="chiefmky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="chiefmky | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
