@@ -28,15 +28,3 @@
 
 <br />
 <br />
-
-
-  ![Moise's GitHub stats](https://github-readme-stats.vercel.app/api?username=moise-mokoy-sp&show_icons=true&theme=radical)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moise-mokoy-sp&layout=compact&langs_count=10)](https://github.com/moise-mokoy-sp/github-readme-stats)
-
-
-[leetcode]: http://leetcode.com/chiefmky/ 
-[hackerrank]: http://hackerrank.com/mosesmokoy
-[instagram]: https://www.instagram.com/realchiefmky/
-[linkedin]: https://www.linkedin.com/in/moise-mokoy-6106799b/
